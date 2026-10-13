@@ -1,0 +1,9 @@
+/build*/
+/bin/
+/tests/output/
+/results/
+/example/
+__pycache__/
+*.pyc
+*.log
+/pgr*.xvg
